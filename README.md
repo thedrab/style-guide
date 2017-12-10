@@ -10,7 +10,7 @@
 
 The Drab's lines should be fully emboldened. All other lines only the attribution and colon should be in bold.
 
-A new line should be used for each new line.
+A two new lines should be used for each new line.
 
 ```
 **The Drab: So tell me what happened.**
